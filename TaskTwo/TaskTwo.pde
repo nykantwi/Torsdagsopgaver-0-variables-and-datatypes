@@ -1,10 +1,10 @@
 "Tess Løvgreen";// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
-365;
-"København";
-true;
+Int count =365;
+String cityName="København";
+boolean"today I did good "=true;
 60*24;
-22.12
-"Hej, jeg heddder "+teachername;
-false;
+float=22.12
+String="Hej, jeg heddder "+teachername;
+boolean false;
 2.2 + 33;
-'S';
+char='S';
